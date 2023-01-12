@@ -6,4 +6,3 @@
 
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew1412Belous)](https://github.com/anuraghazra/github-readme-stats)
