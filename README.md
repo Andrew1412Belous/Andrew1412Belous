@@ -47,14 +47,14 @@ ____
 </p>
 
 
-____
-
-<h3 align="left">👨‍💻 All of my projects:</h3>
+<!-- ____
+ -->
+<!-- <h3 align="left">👨‍💻 All of my projects:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew1412Belous&repo=Jewelry-shop)](https://github.com/Andrew1412Belous/Jewelry-shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew1412Belous&repo=Authorization-registration)](https://github.com/Andrew1412Belous/Authorization-registration)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew1412Belous&repo=project_Uber)](https://github.com/Andrew1412Belous/project_Uber)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew1412Belous&repo=project_Pulsometr)](https://github.com/Andrew1412Belous/project_Pulsometr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew1412Belous&repo=project_Pulsometr)](https://github.com/Andrew1412Belous/project_Pulsometr) -->
 ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew1412Belous)](https://github.com/anuraghazra/github-readme-stats)
