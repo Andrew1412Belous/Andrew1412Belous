@@ -1,6 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/64363715/217217404-1663ea47-e3ab-4263-88fb-e2b34fbd32e1.png)
 
-<h3 align="center">Frontend developer, computer engineering student</h3>
+<h3 align="center">Fullstack developer, computer engineering student</h3>
 
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me)
 
